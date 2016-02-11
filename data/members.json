@@ -1,0 +1,30 @@
+{"members":[
+    {"firstName":"Matthias",
+    "lastName":"Steindl",
+    "nickName":"JaMes",
+    "gamerTag":"LieroLarryfier",
+    "mailAddress" : "steindlmatthias@gmx.at",
+    "games":[],
+    "awards":[],
+    "squads":[]},
+
+    {"firstName":"Dominik",
+     "lastName":"Steininger",
+     "nickName":"Mili",
+     "gamerTag":"Triologyc",
+     "mailAddress":"mili@gmx.at",
+     "games":[
+       { "name" : "Heroes of the Storm" },
+       { "name" : "UT2004"}],
+     "awards":[],
+     "squads":[]},
+
+    {"firstName":"Markus",
+     "lastName":"Scheiblmaysser",
+     "nickName":"Scheiwe",
+     "gamerTag":"oLpH",
+     "mailAddress":"oLpH@gmx.at",
+     "games":[],
+     "awards":[],
+     "squads":[]}
+]}

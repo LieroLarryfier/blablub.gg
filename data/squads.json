@@ -1,0 +1,30 @@
+{"squads":[
+    {"game":"CS:GO",
+    "members": [
+      {"gamerTag" : "LieroLarryfier"},
+      {"gamerTag" : "oLpH"},
+      {"gamerTag" : "Wingsch"}
+    ],
+    "leader" : "LieroLarryfier",
+    "dates":[],
+    "awards":[]},
+
+    {"game":"Heroes of the Storm",
+     "members": [
+       {"gamerTag" : "LieroLarryfier"},
+       {"gamerTag" : "Triologyc"},
+       {"gamerTag" : "Raz95"}
+     ],
+     "leader" : "LieroLarryfier",
+     "dates":[],
+     "awards":[]},
+
+    {"game":"Hearthstone",
+     "members": [
+       {"gamerTag" : "LieroLarryfier"},
+       {"gamerTag" : "fraunz"}
+     ],
+     "leader" : "LieroLarryfier",
+     "dates":[],
+     "awards":[]}
+]}
